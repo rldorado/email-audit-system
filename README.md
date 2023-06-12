@@ -1,4 +1,6 @@
-# email-audit-system
+# Email Audit System
+
+Small challenge of email audit system made with Vue CLI.
 
 ## Project setup
 ```
